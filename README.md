@@ -9,6 +9,8 @@ you get a replay: a pixel-art boardroom where you watch the whole meeting.
 
 ![The board arguing over a project in a pixel-art office](media/demo.gif)
 
+**[Watch a full meeting, live in your browser](https://abhishekk24.github.io/pitch-me/)**
+
 It is a Claude Code skill. It runs in your own Claude, on the plan you already
 have. No API key, no sign-up, no Pitch.me server.
 
@@ -81,7 +83,8 @@ for length. The board's uncomfortable truth was:
 > The only version that works today is the free one, and it gives away the one
 > thing anyone at this table said they might pay for.
 
-So here is the free one.
+So here is the free one. The [whole session](https://abhishekk24.github.io/pitch-me/)
+is online: the research, all six reads, the argument and the full report.
 
 ## What to expect
 
